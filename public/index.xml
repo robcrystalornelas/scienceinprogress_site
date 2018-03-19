@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Science in Progress</title>
+    <link>/</link>
+    <description>Recent content on Science in Progress</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 16 Mar 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Welcome to Science in Progress</title>
+      <link>/2018/03/16/welcome-to-science-in-progress/</link>
+      <pubDate>Fri, 16 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/03/16/welcome-to-science-in-progress/</guid>
+      <description>Thanks for checking out our new site for the podcast Science in Progress. This podcast is brought to you by the Ecological Society of America’s Student Section. If you want more info on the ESA Student Section click here. We’re in the process of finishing up the first couple of episodes and posting them to various podcasting platforms. Check back soon for the very first episode!</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Science in Progress is a podcast presented by the ESA Student Section. In each episode, I interview scientists at the early stages of careers in ecology. We have fun and honest conversations about what it&amp;rsquo;s like to learn how to be a scientist.</description>
+    </item>
+    
+  </channel>
+</rss>
