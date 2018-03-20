@@ -13,14 +13,14 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     name = "About"
     url = "/about/"
 [[menu.main]]
-    name = "Link to Shows"
-    url = "http://directory.libsyn.com/shows/view/id/robcrystalornelas"
+    name = "iTunes"
+    url = "https://itunes.apple.com/us/podcast/science-in-progress/id1360406328"
 [[menu.main]]
     name = "Twitter"
     url = "https://twitter.com/rob_c_ornelas"
 
 [params]
-    description = "A website built through Hugo and blogdown."
+    description = "A podcase featuring discussions with early career ecologists"
 
     # options for highlight.js (version, additional languages, and theme)
     highlightjsVersion = "9.11.0"
