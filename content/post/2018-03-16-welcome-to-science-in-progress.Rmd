@@ -1,0 +1,14 @@
+---
+title: Welcome to Science in Progress
+author: Rob C-O
+date: '2018-03-16'
+slug: welcome-to-science-in-progress
+categories:
+  - podcast
+  - ecology
+  - science
+  - R
+tags: []
+---
+
+Thanks for checking out our new site for the podcast *Science in Progress*.  This podcast is brought to you by the Ecological Society of America's Student Section.  If you want more info on the ESA Student Section [click here](https://www.esastudents.org).  We're in the process of finishing up the first couple of episodes and posting them to various podcasting platforms.  Check back soon for the very first episode!
