@@ -13,11 +13,11 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     name = "About"
     url = "/about/"
 [[menu.main]]
-    name = "iTunes"
+    name = "Stream"
     url = "https://itunes.apple.com/us/podcast/science-in-progress/id1360406328"
 
 [params]
-    description = "A podcase featuring discussions with students in science"
+    description = "A podcast featuring discussions with students in science"
 
     # options for highlight.js (version, additional languages, and theme)
     highlightjsVersion = "9.11.0"
@@ -29,7 +29,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     MathJaxVersion = "2.7.1"
 
     [params.logo]
-    url = "just_background_300.png"
+    url = "SIP_Abbrev_300px.jpg"
     width = 50
     height = 50
     alt = "Logo"
