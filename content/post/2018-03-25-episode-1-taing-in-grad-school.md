@@ -1,5 +1,5 @@
 ---
-title: 'Episode #1 - TAing in Grad School'
+title: '#1 Katie Thompson - Teaching in Grad School'
 author: Rob C-O
 date: '2018-03-25'
 slug: episode-1-taing-in-grad-school
