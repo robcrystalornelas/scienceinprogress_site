@@ -12,4 +12,5 @@ For more information on the *Ecological Society of America*:
 [Membership details](https://eservices.esa.org/Eservices/Contacts/Sign_In.aspx)
 [The ESA student section facebook](https://www.facebook.com/pages/Ecological-Society-of-America-Student-Section/761632403864881)
 
-<img src="/./about_files/career-info-connect-banner.jpg" alt="ecotone_pie" width="300px"/>
+<img src="/./about_files/career-info-connect-banner.jpg" alt="ecotone_pie" width="350px"/>
+The [ECOLOGICAL SOCIETY OF AMERICA](https://www.esa.org/esa/) is a community of 9,000 scientists, researchers, decision makers, policy managers, and educators who are dedicated to understanding life on earth. We are an advocate for ecology and a voice for ecologists. ESA strengthens connections within and outside our community to support your work and promotes ecological science. As our discipline expands its boundaries with new ideas, new experimental tools, and the recruitment of young scientists, we hope you will [join us or renew](https://eservices.esa.org/Eservices/Contacts/Sign_In.aspx).
