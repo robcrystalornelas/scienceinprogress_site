@@ -60,9 +60,9 @@ code {
 
 .nav-logo img {
   display: block;
-  max-height: 100px;
+  max-height: 150px;
   width: auto;
-  border-radius: 50%;
+  border-radius: 100%;
 }
 
 .nav-links {
