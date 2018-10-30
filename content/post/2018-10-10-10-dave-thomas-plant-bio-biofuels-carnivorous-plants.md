@@ -12,4 +12,4 @@ categories:
 
 In this episode, I have a fun conversation with Dave Thomas from University of Oklahoma.  We walk about Dave's research in plant biology and biofuels.  We also hear about his strategies for using carnivorous plants to teach plant bio at his home institution!
 
-![dave](/post/2018-10-10-10-dave-thomas-plant-bio-biofuels-carnivorous-plants_files/Screen Shot 2018-03-21 at 4.20.34 PM.png)
+![dave](/img/dave_podcast.jpg)
