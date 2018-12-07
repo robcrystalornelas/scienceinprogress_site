@@ -16,6 +16,6 @@ On today's podcast I chat with Alejandra Echeverri who is a Phd candidate at the
 
 Alejandra's twitter: @ornithoale
 
-![](https://alejandraecheverriochoa.files.wordpress.com/2014/08/img_9778.jpg)
+<img src="/post/2018-12-06-13-alejandra-echeverri-environmental-consulting-as-a-career_files/img_9778.jpg" alt="Alejandra" width="450px"/>
 
 
