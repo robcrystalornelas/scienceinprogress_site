@@ -14,10 +14,10 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     url = "/about/"
 [[menu.main]]
     name = "Stream"
-    url = "http://robcrystalornelas.libsyn.com/website"
+    url = "https://www.robcrystalornelas.libsyn.com/website"
 
 [params]
-    description = "A podcast featuring about science in progress"
+    description = "A podcast featuring conversations about science in progress"
 
     # options for highlight.js (version, additional languages, and theme)
     highlightjsVersion = "9.11.0"
