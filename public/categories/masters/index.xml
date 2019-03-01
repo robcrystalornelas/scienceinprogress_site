@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Masters on Science in Progress</title>
+    <link>/categories/masters/</link>
+    <description>Recent content in Masters on Science in Progress</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 21 May 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/masters/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>#5 Dan Clark - Grad School Decisions</title>
+      <link>/2018/05/21/5-dan-clark/</link>
+      <pubDate>Mon, 21 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/05/21/5-dan-clark/</guid>
+      <description>In this episode I chat with Dan Clark, a PhD candidate in Ecology and Evolution at Rutgers University. During this podcast, Dan and I discuss some of the many decisions that prospective grad students have to make when applying to programs. We talk about things ranging from the differences between MS and PhD programs and living in places that get so much snow! Dan received his masters from CUNY-ESF, and it&amp;rsquo;s great to hear his research path and how he made decisions about grad school.</description>
+    </item>
+    
+  </channel>
+</rss>

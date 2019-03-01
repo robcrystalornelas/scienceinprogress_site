@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Plant Biology on Science in Progress</title>
+    <link>/categories/plant-biology/</link>
+    <description>Recent content in Plant Biology on Science in Progress</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 Oct 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/plant-biology/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>#10 Dave Thomas - Plant Bio, Biofuels &amp; Carnivorous Plants</title>
+      <link>/2018/10/10/10-dave-thomas-plant-bio-biofuels-carnivorous-plants/</link>
+      <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/10/10/10-dave-thomas-plant-bio-biofuels-carnivorous-plants/</guid>
+      <description>In this episode, I have a fun conversation with Dave Thomas from University of Oklahoma. We walk about Dave&amp;rsquo;s research in plant biology and biofuels. We also hear about his strategies for using carnivorous plants to teach plant bio at his home institution!</description>
+    </item>
+    
+  </channel>
+</rss>

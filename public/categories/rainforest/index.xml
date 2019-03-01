@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rainforest on Science in Progress</title>
+    <link>/categories/rainforest/</link>
+    <description>Recent content in Rainforest on Science in Progress</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 22 Jun 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/rainforest/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>#6 Diego Balbuena - Rainforest Research</title>
+      <link>/2018/06/22/6-diego-balbuena-rainforest-research/</link>
+      <pubDate>Fri, 22 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/06/22/6-diego-balbuena-rainforest-research/</guid>
+      <description>I&amp;rsquo;m joined by Diego Balbuena who just finished up his undergrad degree at Universidad Nacional Agraria La Molina in Lima, Peru! In this episode we talk about Diego&amp;rsquo;s path to becoming an ecologist. Diego took a couple of years off to develop skills in studying the wildlife that live in rainforest canopies. He has fantastic tales from the field as well as a real passion for the ecology research that he conducts.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teaching on Science in Progress</title>
+    <link>/categories/teaching/</link>
+    <description>Recent content in Teaching on Science in Progress</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 25 Mar 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/teaching/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>#1 Katie Thompson - Teaching in Grad School</title>
+      <link>/2018/03/25/episode-1-taing-in-grad-school/</link>
+      <pubDate>Sun, 25 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/03/25/episode-1-taing-in-grad-school/</guid>
+      <description>The very first episode of Science in Progress is now available. In this episode, I&amp;rsquo;m joined by Katie Thompson of Iowa State University. As a PhD student, Katie studies lichen diversity in Iowa. Katie also has been teaching since her early days in grad school and she shares some of the techinques that she uses in the classroom to keep students engaged and excited. Big thanks to Katie for joining me on the first episode.</description>
+    </item>
+    
+  </channel>
+</rss>

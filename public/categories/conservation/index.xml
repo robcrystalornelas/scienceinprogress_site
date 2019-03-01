@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Conservation on Science in Progress</title>
+    <link>/categories/conservation/</link>
+    <description>Recent content in Conservation on Science in Progress</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 22 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/conservation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>#9 Abbie Kropf - Entomology &amp; Perseverance in Grad School</title>
+      <link>/2018/09/22/9-abbie-kropf-entomology-perseverance-in-grad-school/</link>
+      <pubDate>Sat, 22 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/09/22/9-abbie-kropf-entomology-perseverance-in-grad-school/</guid>
+      <description>In this episode I chat with Abbie Kropf a 2nd year PhD student at Iowa State University. Abbie is in the department of entomology at Iowa State. In this episode, we talk about how Abbie started in her Masters research in Costa Rica. She spend multiple seasons in Costa Rica studying forest fragmentation with Dr. Mike Wasserman and Dr. Peter Beck.
+We also have a great discussion about perserserverance in grad school and suggestions for finding grad school labs that will be a good fit.</description>
+    </item>
+    
+  </channel>
+</rss>

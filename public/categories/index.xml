@@ -6,43 +6,332 @@
     <description>Recent content in Categories on Science in Progress</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Tue, 13 Nov 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Bats</title>
+      <link>/categories/bats/</link>
+      <pubDate>Tue, 13 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/bats/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Behavioral Ecology</title>
+      <link>/categories/behavioral-ecology/</link>
+      <pubDate>Mon, 29 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/behavioral-ecology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Biofuels</title>
+      <link>/categories/biofuels/</link>
+      <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/biofuels/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Compost</title>
+      <link>/categories/compost/</link>
+      <pubDate>Tue, 03 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/compost/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conservation</title>
+      <link>/categories/conservation/</link>
+      <pubDate>Sat, 22 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/conservation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Disease Ecology</title>
+      <link>/categories/disease-ecology/</link>
+      <pubDate>Tue, 13 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/disease-ecology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Ecology</title>
       <link>/categories/ecology/</link>
-      <pubDate>Fri, 16 Mar 2018 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 13 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/ecology/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Education</title>
+      <link>/categories/education/</link>
+      <pubDate>Sun, 25 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/education/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Entomology</title>
+      <link>/categories/entomology/</link>
+      <pubDate>Sat, 22 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/entomology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Environmental Consuilting</title>
+      <link>/categories/environmental-consuilting/</link>
+      <pubDate>Thu, 06 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/environmental-consuilting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Field Work</title>
+      <link>/categories/field-work/</link>
+      <pubDate>Wed, 11 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/field-work/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flowers</title>
+      <link>/categories/flowers/</link>
+      <pubDate>Tue, 20 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/flowers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gardening</title>
+      <link>/categories/gardening/</link>
+      <pubDate>Tue, 03 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/gardening/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grad School</title>
+      <link>/categories/grad-school/</link>
+      <pubDate>Sat, 22 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/grad-school/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graduate School</title>
+      <link>/categories/graduate-school/</link>
+      <pubDate>Tue, 13 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/graduate-school/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Insects</title>
+      <link>/categories/insects/</link>
+      <pubDate>Wed, 13 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/insects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Invasive Species</title>
+      <link>/categories/invasive-species/</link>
+      <pubDate>Thu, 03 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/invasive-species/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kombucha</title>
+      <link>/categories/kombucha/</link>
+      <pubDate>Tue, 03 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/kombucha/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lab Manager</title>
+      <link>/categories/lab-manager/</link>
+      <pubDate>Wed, 15 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/lab-manager/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marine Biology</title>
+      <link>/categories/marine-biology/</link>
+      <pubDate>Wed, 15 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/marine-biology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Masters</title>
+      <link>/categories/masters/</link>
+      <pubDate>Mon, 21 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/masters/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oceans</title>
+      <link>/categories/oceans/</link>
+      <pubDate>Wed, 15 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/oceans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Peru</title>
+      <link>/categories/peru/</link>
+      <pubDate>Fri, 22 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/peru/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phd</title>
+      <link>/categories/phd/</link>
+      <pubDate>Mon, 21 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/phd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Plant Biology</title>
+      <link>/categories/plant-biology/</link>
+      <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/plant-biology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Plants</title>
+      <link>/categories/plants/</link>
+      <pubDate>Wed, 13 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/plants/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Podcast</title>
       <link>/categories/podcast/</link>
-      <pubDate>Fri, 16 Mar 2018 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 20 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>/categories/podcast/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Primatology</title>
+      <link>/categories/primatology/</link>
+      <pubDate>Mon, 29 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/primatology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>R</title>
       <link>/categories/r/</link>
-      <pubDate>Fri, 16 Mar 2018 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 20 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>/categories/r/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Rainforest</title>
+      <link>/categories/rainforest/</link>
+      <pubDate>Fri, 22 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/rainforest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Renewable Energy</title>
+      <link>/categories/renewable-energy/</link>
+      <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/renewable-energy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Science</title>
       <link>/categories/science/</link>
-      <pubDate>Fri, 16 Mar 2018 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 06 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>/categories/science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistics</title>
+      <link>/categories/statistics/</link>
+      <pubDate>Wed, 11 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/statistics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>/categories/teaching/</link>
+      <pubDate>Sun, 25 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/teaching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Undergrad</title>
+      <link>/categories/undergrad/</link>
+      <pubDate>Fri, 22 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/undergrad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Urban</title>
+      <link>/categories/urban/</link>
+      <pubDate>Wed, 13 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/urban/</guid>
       <description></description>
     </item>
     

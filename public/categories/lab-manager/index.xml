@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lab Manager on Science in Progress</title>
+    <link>/categories/lab-manager/</link>
+    <description>Recent content in Lab Manager on Science in Progress</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 Aug 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/lab-manager/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>#7 Priya Shukla - Lab managing and grad school</title>
+      <link>/2018/08/15/7-priya-shukla-lab-managing-and-grad-school/</link>
+      <pubDate>Wed, 15 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/08/15/7-priya-shukla-lab-managing-and-grad-school/</guid>
+      <description>In this episode, I sit down with Priya Shukla of UC Davis&amp;rsquo; Bodega Marine Lab. Over the past couple of years, Priya has worked as lab manager for the Ocean Acidification group at BML. Recently, she accepted a spot in UC Davis&amp;rsquo; Ecology PhD program! Priya discusses what it&amp;rsquo;s like to work as a lab manager (for 3 different labs at once!) and what it was like applying to grad school amidst all the work at BML.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Invasive Species on Science in Progress</title>
+    <link>/categories/invasive-species/</link>
+    <description>Recent content in Invasive Species on Science in Progress</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 03 May 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/invasive-species/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>#4 Jason Sadowski - Research Talk</title>
+      <link>/2018/05/03/4-jason-sadowski-research-talk/</link>
+      <pubDate>Thu, 03 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/05/03/4-jason-sadowski-research-talk/</guid>
+      <description>This week, I&amp;rsquo;m joined by Jason Sadowski of the UC Davis Bodega Marine. We talk about Jason&amp;rsquo;s path from undergraduate research at Rutgers University to his current work on marine invasions in northern California.
+Jason&amp;rsquo;s website
+Twitter: @Jason_Sadowski
+Jason&amp;rsquo;s linked-in</description>
+    </item>
+    
+  </channel>
+</rss>

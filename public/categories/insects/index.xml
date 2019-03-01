@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Insects on Science in Progress</title>
+    <link>/categories/insects/</link>
+    <description>Recent content in Insects on Science in Progress</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 13 Feb 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/insects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>#14 Manuel Lequerica - Urban Ecology</title>
+      <link>/2019/02/13/14-manuel-lequerica-urban-ecology/</link>
+      <pubDate>Wed, 13 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/02/13/14-manuel-lequerica-urban-ecology/</guid>
+      <description>In today’s episode I chat with Manuel Lequerica, a PhD candidate at the University of Sydney. We talk about the fascinating aspects of urban ecology including light pollution, human connection with nature and plant/insect interactions. We also have fun discussions about what it’s like to follow different passions for research and why it’s OK to be fascinated by lots of different things. Thanks to Manuel for this episode!! Also, thank you Alejandra Echeverri for introducing us.</description>
+    </item>
+    
+  </channel>
+</rss>

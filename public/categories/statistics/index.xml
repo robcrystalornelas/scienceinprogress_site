@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Statistics on Science in Progress</title>
+    <link>/categories/statistics/</link>
+    <description>Recent content in Statistics on Science in Progress</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 11 Apr 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/statistics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>#3 Nicholas Lyon - Research Talk</title>
+      <link>/2018/04/11/3-nicholas-lyon-research-talk/</link>
+      <pubDate>Wed, 11 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/04/11/3-nicholas-lyon-research-talk/</guid>
+      <description>How can agricultural pastures be managed to support a community pollinators? Nicholas Lyon joins me on Science in Progress to chat about his research on this subject and much more. Nick is the first guest in a series of research talks we&amp;rsquo;ll record focused on the awesome research that student ecologists are conducting. Nick is a masters student at Iowa State University and did his undergraduate at the University of Puget Sound.</description>
+    </item>
+    
+  </channel>
+</rss>
