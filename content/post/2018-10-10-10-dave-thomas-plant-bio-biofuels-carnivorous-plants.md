@@ -1,5 +1,5 @@
 ---
-title: '#10 Dave Thomas - Plant Bio, Biofuels & Carnivorous Plants'
+title: '#11 Dave Thomas - Plant Bio, Biofuels & Carnivorous Plants'
 author: "Rob Crystal-Ornelas"
 date: '2018-10-10'
 slug: 10-dave-thomas-plant-bio-biofuels-carnivorous-plants

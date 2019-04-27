@@ -1,5 +1,5 @@
 ---
-title: '#9 Abbie Kropf - Entomology & Perseverance in Grad School'
+title: '#10 Abbie Kropf - Entomology & Perseverance in Grad School'
 author: Rob C-O
 date: '2018-09-22'
 slug: 9-abbie-kropf-entomology-perseverance-in-grad-school

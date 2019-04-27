@@ -1,5 +1,5 @@
 ---
-title: '#11 Laura Abondano - Primatology field work in Ecuador'
+title: '#12 Laura Abondano - Primatology field work in Ecuador'
 author: Rob Crystal-Ornelas
 date: '2018-10-29'
 slug: 11-laura-abondano

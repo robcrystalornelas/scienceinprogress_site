@@ -1,5 +1,5 @@
 ---
-title: '#10 - Dave Thomas - From Business to Biofuels'
+title: '#11 - Dave Thomas - From Business to Biofuels'
 author: Rob C-O
 date: '2018-09-22'
 slug: 10-dave-thomas-ecology-and-biofuels

@@ -1,5 +1,5 @@
 ---
-title: '#7 Priya Shukla - Lab managing and grad school'
+title: '#8 Priya Shukla - Lab managing and grad school'
 author: Rob Crystal-Ornelas
 date: '2018-08-15'
 categories:

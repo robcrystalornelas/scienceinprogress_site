@@ -1,5 +1,5 @@
 ---
-title: '#8 Johnny Quispe - Coastal Resilience'
+title: '#9 Johnny Quispe - Coastal Resilience'
 author: Rob C-O
 date: '2018-09-11'
 slug: 8-johnny-quispe-coastal-resilience
