@@ -2,7 +2,7 @@
 title: '#6 Diego Balbuena - Rainforest Research'
 author: Rob C-O
 date: '2018-06-22'
-slug: 6-diego-balbuena-rainforest-research
+slug: 7-diego-balbuena-rainforest-research
 categories:
   - ecology
   - peru
