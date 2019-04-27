@@ -1,5 +1,5 @@
 ---
-title: '#6 Diego Balbuena - Rainforest Research'
+title: '#7 Diego Balbuena - Rainforest Research'
 author: Rob C-O
 date: '2018-06-22'
 slug: 7-diego-balbuena-rainforest-research
