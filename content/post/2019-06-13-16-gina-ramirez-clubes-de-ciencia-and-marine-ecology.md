@@ -1,5 +1,5 @@
 ---
-title: '#16 Gina Ramirez - Clubes de Ciencia and Marine Ecology'
+title: '#16 Gina Ramírez - Clubes de Ciencia and Marine Ecology'
 author: Rob Crystal-Ornelas
 date: '2019-06-13'
 slug: 16-gina-ramirez-clubes-de-ciencia-and-marine-ecology
