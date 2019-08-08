@@ -1,5 +1,5 @@
 ---
-title: '#17 Meredith Zettlemoyer'
+title: '#17 Meredith Zettlemoyer - Work experiences and writing tips'
 author: Rob C-O
 date: '2019-08-08'
 slug: 17-meredith-zettlemoyer
