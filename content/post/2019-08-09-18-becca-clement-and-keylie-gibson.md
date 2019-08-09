@@ -12,7 +12,7 @@ categories:
 tags: []
 ---
 
-On episode #18 I'm joined by [Becca Clement](https://twitter.com/BeccasBugs) and [Keylie Gibson](https://twitter.com/gibsonkeylie?lang=en) who are both PhD students at George Washington University's [Computational Biology Institute](https://cbi.gwu.edu/). We begin by defining computational biology and then see how their research projects (related to Black Rhino conservation and the Australian termite diversity anomaly) both rely on analyzing huge amounts of data.
+On episode #18 I'm joined by [Becca Clement](https://twitter.com/BeccasBugs) and [Keylie Gibson](https://twitter.com/gibsonkeylie?lang=en) who are both PhD candidates at George Washington University's [Computational Biology Institute](https://cbi.gwu.edu/). We begin by defining computational biology and then see how their research projects (related to Black Rhino conservation and the Australian termite diversity anomaly) both rely on analyzing huge amounts of data.
 
 If you are at the Ecological Society of America's annual meeting in Louisville this week check out their talks!
 
